@@ -1,0 +1,6 @@
+discord
+dishlash
+subprocess
+requests
+threading
+datetime
